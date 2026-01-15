@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m [@Flash-LHR](https://github.com/Flash-LHR)  
 
-![stats](https://github-readme-stats-ouuan.vercel.app/api?username=Flash-LHR&show_icons=true)
+![stats](https://github-stats-extended.vercel.app/api?username=Flash-LHR&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&v=flush)  
 
 ### 🚀 Featured work
 
